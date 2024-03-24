@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/auth-setup-reduxToolkit/static/css/main.fc762f52.css",
+    "main.js": "/auth-setup-reduxToolkit/static/js/main.3b005b1b.js",
+    "index.html": "/auth-setup-reduxToolkit/index.html",
+    "main.fc762f52.css.map": "/auth-setup-reduxToolkit/static/css/main.fc762f52.css.map",
+    "main.3b005b1b.js.map": "/auth-setup-reduxToolkit/static/js/main.3b005b1b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc762f52.css",
+    "static/js/main.3b005b1b.js"
+  ]
+}
